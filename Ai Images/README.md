@@ -1,73 +1,17 @@
-# AI_Project
-Stable Diffusion 수업 정리 자료
-
-MarkDown 내용 정리
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-<!-- Line -->
-
----
-
-<-- Text attributes -->
-
-+ 볼드 형식 : **볼드**
-+ 이탤릭 형식 : *이텔릭*
-+ 스트라이크쓰루 : ~~스트라이크쓰루~~
-
-<!-- Quote -->
-> 마크다운 쿼트
-
-<!-- Bullet List -->
-아이템 리스트
-* 아이템 1
-* 아이템 2
-
-<!-- Numbered List -->
-숫자 리스트 :
-
-1. 숫자 1
-2. 숫자 2
-3. 숫자 3
-
-<!-- Link -->
-Click [My Git hub](https://github.com/내주소)
-
-<!-- Image -->
-![image](주소)
-
-<!-- Table -->
-
-|Header|Description|other|
-|--:|:--|:--:|
-|Cell1|Cell2|Cell3|
-|Cell1|Cell2|Cell3|
-|Cell1|Cell2|Cell3|
-|Cell1|Cell2|Cell3|
-|Cell1|Cell2|Cell3|
 
 
 
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/00020-1625740406.png?raw=true)
 
-:-- 좌 정렬
---: 우 정렬
-:--: 중앙 정렬
+### Adtailer 사용 전후
 
-<!-- Code -->
+![image0](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/00021-2130881223.png?raw=true)
 
-debug console Sample `Debug.log("--")`
 
-```C#
-Debug.Log(Message)
+
+parameters
 ```
-
-<!-- TodoList -->
-- [X] #739
-- [ ] htps://github.com
-- [ ] add
-
+Light pink hair, pink eyes, pink and white, sakura leafs, vivid colors, white dress, paint splash, simple background, ray tracing, wavy hair
+Negative prompt: (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, watermark
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2042041763, Size: 512x512, Model hash: 7c819b6d13, Model: majicmixRealistic_v7, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Denoising strength: 0.4, ADetailer model: face_yolov8n.pt, ADetailer confidence: 0.3, ADetailer dilate erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 24.3.2, Mask blur: 4, Inpaint area: Only masked, Masked area padding: 32, Version: v1.8.0
+```
