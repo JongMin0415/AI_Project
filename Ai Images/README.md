@@ -40,6 +40,9 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1625740406, Size: 512x5
 
 ### OpenPose
 
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/pose-fighting-half-011-ar2x3.png?raw=true)
+
+
 ![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/0412%20(2).png?raw=true)
 
 
