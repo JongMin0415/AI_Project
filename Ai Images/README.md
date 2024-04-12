@@ -46,3 +46,12 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1625740406, Size: 512x5
 ### Segmentation
 
 ![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/0412%20(3).png?raw=true)
+
+
+### LOra
+
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/lora.png?raw=true)
+
+### Lora + pose
+
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/Pose+lora.png?raw=true)
