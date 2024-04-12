@@ -1,11 +1,11 @@
 
 
 
-![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/00020-1625740406.png?raw=true)
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/0.png?raw=true)
 
 ### Adtailer 사용 전후
 
-![image0](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/00021-2130881223.png?raw=true)
+![image0](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/1.png?raw=true)
 
 
 
@@ -17,25 +17,25 @@ Negative prompt: (((simple background))),monochrome,lowres,bad anatomy,bad hands
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1625740406, Size: 512x512, Model hash: 7c819b6d13, Model: majicmixRealistic_v7, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Version: v1.8.0
 
 
-![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/326146.png?raw=true)
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/2.png?raw=true)
 
 
 
-![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/00008-2995553108.png?raw=true)
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/3.png?raw=true)
 
 
 ### depth 
-![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/03.19618685.1.jpg?raw=true)
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/depth%20before.jpg?raw=true)
 
 
-![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/00004-2075729745.png?raw=true)
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/depth%20after.png?raw=true)
 
 
 ### pixel
 
-![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/00000.png?raw=true)
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/pixel%20before.png?raw=true)
 
-![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/00003.png?raw=true)
+![image](https://github.com/JongMin0415/AI_Project/blob/main/Ai%20Images/pixel%20after.png?raw=true)
 
 
 ### OpenPose
